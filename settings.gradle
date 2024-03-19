@@ -1,2 +1,3 @@
 rootProject.name = 'nexus-annotations'
+include 'nexus-test-module'
 

@@ -1,3 +1,39 @@
 
 <
 build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
+P
+ src/main/java/org/aero/Main.java,c\d\cd2c4d2d0c5919d92af2eb9ae5f796261d6f9806
+t
+Dsrc/main/java/org/aero/annotations/processor/BeansTestProcessor.java,6\b\6b93b79b6c4b0399b946766d5e6f1b0496517633
+z
+Jsrc/main/java/org/aero/nexus/annotations/processor/BeansTestProcessor.java,3\e\3ea322c5184aa9f24fe184b260570aeaeda11dcc
+q
+Asrc/main/java/org/aero/nexus/annotations/processor/BeansTest.java,7\d\7d97b0322d972b599f4b8a84d9c6ad3a0aedddda
+u
+Esrc/main/java/org/aero/nexus/annotations/processor/JavaBeansTest.java,0\0\00317db2755e20c8e9f32d0cf230e7ee8629e834
+~
+Nsrc/main/java/org/aero/nexus/annotations/processor/JavaBeansTestProcessor.java,f\b\fb7f6d040de155155a9ed74a3b32f1d27a7fc523
+ƒ
+Ssrc/main/java/org/aero/nexus/test/annotations/processor/JavaBeansTestProcessor.java,9\0\902e7171940de4934b7aa55148c21960ab6452ea
+z
+Jsrc/main/java/org/aero/nexus/test/annotations/processor/JavaBeansTest.java,d\d\dde0d62a41b75f8ceaa45d5d9a79c4fe9dbf5cd1
+p
+@src/main/java/org/aero/nexus/test/annotations/JavaBeansTest.java,6\6\66c581c3948bdbd202e9d72678c7d974a94b79c5
+U
+%src/test/java/JavaBeansCanditate.java,7\4\74a39295be9c273807ced62ac6314c27fa32889a
+T
+$src/test/java/JavaBeansTypeTest.java,1\6\16abeb1645ae20da0625f293e5b627dc81ce5e2d
+P
+ src/test/java/JavaBeansType.java,b\6\b62a12154215b8b88e6d58b8510f97526b341ab2
+N
+nexus-test-module/build.gradle,6\6\660a2d3143e16abbda7e014a40c2f319c745a701
+?
+settings.gradle,0\5\05efc8b1657769a27696d478ded1e95f38737233
+c
+3nexus-test-module/src/main/java/org/aero/types.java,f\f\ff5ddbd3779ffac0043b46d1257a8fdf3c01cfe3
+i
+9nexus-test-module/src/main/java/org/aero/types/types.java,9\b\9bfddad27be115a3a343483430fe7b9b34474093
+q
+Anexus-test-module/src/main/java/org/aero/types/JavaBeansType.java,f\8\f8e96ec71d29d94a66ed86c7e3637a2cd2208f43
+u
+Enexus-test-module/src/test/java/org/aero/types/JavaBeansTypeTest.java,6\2\62e1e2641f74d90ab57f8c28c76b40ae6afeefe0
